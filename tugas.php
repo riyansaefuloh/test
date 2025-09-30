@@ -14,7 +14,7 @@
         </div>
 
         <div class="profile">
-            <img src="profile.png" alt="profile">
+            <img src="profile.jpg" alt="profile" width="100" height="100">
         </div>
 
         <div class="data-diri">
@@ -28,15 +28,23 @@
         </div>
    
         <div class="sosmed">
-            <a href="https://www.facebook.com/share/1K18WjAHSh/">
-                <img src="facebook.png" alt="facebook">
-            </a>
-            <a href="https://www.instagram.com/riyan.pxr_?igsh=MXBkZjE0YWloamF1aQ==">
-                <img src="instagram.png" alt="instagram">
-            </a>
+            <table>
+                <tr>
+                    <td align="center">
+                        <a href="https://www.facebook.com/share/1K18WjAHSh/">
+                            <img src="facebook.png" alt="facebook" width="50" height="50"><br>
+                             facebook
+                        </a>
+                    </td>
+                    <td align="center">
+                        <a href="https://www.instagram.com/riyan.pxr_?igsh=MXBkZjE0YWloamF1aQ==">
+                            <img src="instagram.png" alt="instagram" width="50" height="50"><br>
+                             instagram
+                        </a>
+                    </td>
+                </tr>
+            </table>
         </div>
-
-
     </div>
 </body>
 </html>
