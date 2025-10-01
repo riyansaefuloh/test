@@ -63,6 +63,7 @@ body {
 
 .footer {
     text-align: right;
-    position: relative;
+    position: fixed;
     margin: 45px;
+    bottom: 0;
 }

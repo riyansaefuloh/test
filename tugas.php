@@ -62,7 +62,6 @@
             <?php
             date_default_timezone_set(timezoneId: "Asia/Jakarta");
             echo "Sekarang: " . date(format: "l, d-m-Y H:i:s")."<br>";
-            echo "Dibuat dengan sepenuh hati";
             ?>
         </div>
     </div>
