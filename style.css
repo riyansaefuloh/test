@@ -62,8 +62,8 @@ body {
 }
 
 .footer {
-    text-align: right;
     position: fixed;
     margin: 45px;
     bottom: 0;
+    right: 0;
 }
